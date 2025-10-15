@@ -96,7 +96,7 @@
 }
  
 .home-hero {
-  display: flex;
+  display: flow-root;
 }
  
 .home-hero-title {
